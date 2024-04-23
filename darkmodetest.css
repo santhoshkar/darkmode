@@ -2,6 +2,7 @@
     Color-scheme: light dark;
     supported-color-schemes:light dark;
     }
+@media (prefers-color-scheme: dark) {
     .dark-pure-black{ color:#000000 !important;}      
 	.dark-light-blue{ color:#8DC8E8 !important;}      
 	.dark-pure-white{ color:#FFFFFF !important;}      
@@ -28,3 +29,4 @@
 	.dark-cool-gray12-border{border:1px solid #454142 !important;}
 	.dark-cool-gray13-border{border:1px solid #333130 !important;}
 	.dark-cool-gray14-border{border:1px solid #222120 !important;}
+}
