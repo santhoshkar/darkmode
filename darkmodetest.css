@@ -1,28 +1,11 @@
-@media (prefers-color-scheme: dark) {
-    .dark-pure-black{ color:#000000 !important;}      
-	.dark-light-blue{ color:#8DC8E8 !important;}      
-	.dark-pure-white{ color:#FFFFFF !important;}      
-	.dark-cool-gray{ color:#B1B3B3 !important;}       
-	.dark-cool-gray9{ color:#858585 !important;}
-	.dark-cool-gray12{ color:#454142 !important;}
-	.dark-cool-gray13{ color:#333130 !important;}
-	.dark-cool-gray14{ color:#222120 !important;}
+/* styles.css */
 
-    .dark-pure-black-bg{background-color:#000000 !important;}
-	.dark-light-blue-bg{ background-color:#8DC8E8 !important;}
-	.dark-pure-white-bg{ background-color:#FFFFFF !important;}
-	.dark-cool-gray-bg{ background-color:#B1B3B3 !important;}
-	.dark-cool-gray9-bg{ background-color:#858585 !important;}
-	.dark-cool-gray12-bg{ background-color:#454142 !important;}
-	.dark-cool-gray13-bg{ background-color:#333130 !important;}
-	.dark-cool-gray14-bg{ background-color:#222120 !important;}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff000;
+    color: #333;
+}
 
-    .dark-pure-black-border{border:1px solid #000000 !important;}
-	.dark-light-blue-border{border:1px solid #8DC8E8 !important;}
-	.dark-pure-white-border{border:1px solid #FFFFFF !important;}
-	.dark-cool-gray-border{border:1px solid #B1B3B3 !important;}
-	.dark-cool-gray9-border{border:1px solid #858585 !important;}
-	.dark-cool-gray12-border{border:1px solid #454142 !important;}
-	.dark-cool-gray13-border{border:1px solid #333130 !important;}
-	.dark-cool-gray14-border{border:1px solid #222120 !important;}
+h1 {
+    color: #007bff; /* Blue color */
 }
