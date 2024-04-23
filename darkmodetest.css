@@ -1,4 +1,7 @@
-
+  :root {
+    Color-scheme: light dark;
+    supported-color-schemes:light dark;
+    }
     .dark-pure-black{ color:#000000 !important;}      
 	.dark-light-blue{ color:#8DC8E8 !important;}      
 	.dark-pure-white{ color:#FFFFFF !important;}      
