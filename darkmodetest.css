@@ -1,5 +1,5 @@
-/* styles.css */
 
+<style type="text/css">
 body {
     font-family: Arial, sans-serif;
     background-color: #fff000;
@@ -9,3 +9,4 @@ body {
 h1 {
     color: #007bff; /* Blue color */
 }
+</style>
